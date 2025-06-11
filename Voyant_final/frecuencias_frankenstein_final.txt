@@ -1,0 +1,342 @@
+Term	Count
+man	132
+life	116
+father	112
+shall	106
+eyes	104
+said	102
+time	98
+saw	94
+night	90
+elizabeth	88
+project	85
+mind	85
+gutenberg	85
+heart	81
+felt	80
+day	80
+death	79
+work	78
+feelings	76
+thought	74
+dear	72
+soon	71
+friend	71
+passed	67
+place	65
+miserable	65
+like	63
+heard	62
+became	61
+love	59
+clerval	59
+little	58
+human	58
+country	57
+appeared	57
+words	54
+misery	54
+justine	54
+friends	54
+nature	53
+return	52
+old	52
+away	52
+hope	51
+days	51
+cottage	51
+know	50
+great	50
+feel	50
+long	49
+happiness	49
+felix	49
+despair	49
+chapter	48
+world	46
+voice	46
+happy	46
+years	45
+sun	45
+poor	45
+horror	45
+scene	44
+men	44
+ice	43
+light	42
+joy	42
+creature	42
+came	42
+new	41
+works	40
+house	40
+fear	40
+affection	40
+power	39
+near	39
+months	39
+make	39
+far	39
+countenance	39
+thoughts	38
+soul	38
+hands	38
+entered	38
+come	38
+possessed	37
+pleasure	37
+mountains	37
+morning	37
+moment	37
+took	36
+journey	36
+geneva	36
+earth	36
+cause	36
+left	35
+kind	35
+good	35
+gentle	35
+discovered	35
+spirit	34
+sea	34
+hours	34
+continued	34
+child	34
+taken	33
+rest	33
+knowledge	33
+idea	33
+fiend	33
+believe	33
+become	33
+tears	32
+tale	32
+strange	32
+sensations	32
+room	32
+resolved	32
+remained	32
+peace	32
+lost	32
+letter	32
+knew	32
+gave	32
+delight	32
+spirits	31
+returned	31
+read	31
+nearly	31
+mother	31
+monster	31
+manner	31
+form	31
+family	31
+existence	31
+cold	31
+beheld	31
+young	30
+present	30
+loved	30
+fellow	30
+companion	30
+appearance	30
+think	29
+terms	29
+state	29
+looked	29
+change	29
+arrived	29
+victor	28
+science	28
+placed	28
+oh	28
+native	28
+let	28
+lay	28
+lake	28
+grief	28
+girl	28
+free	28
+frankenstein	28
+endeavoured	28
+desire	28
+dark	28
+brought	28
+began	28
+beautiful	28
+wind	27
+thousand	27
+sister	27
+replied	27
+length	27
+kindness	27
+hardly	27
+greatest	27
+forth	27
+food	27
+feeling	27
+electronic	27
+beauty	27
+air	27
+various	26
+town	26
+suddenly	26
+seek	26
+quickly	26
+perceived	26
+murderer	26
+means	26
+lovely	26
+live	26
+henry	26
+hand	26
+ground	26
+expressed	26
+concerning	26
+called	26
+beloved	26
+agony	26
+wretch	25
+wood	25
+william	25
+spoke	25
+spent	25
+sight	25
+sat	25
+safie	25
+rage	25
+head	25
+having	25
+greater	25
+died	25
+desired	25
+creatures	25
+cousin	25
+wretched	24
+wish	24
+turned	24
+revenge	24
+occupied	24
+natural	24
+hour	24
+fixed	24
+filled	24
+enemy	24
+door	24
+die	24
+degree	24
+anguish	24
+sweet	23
+say	23
+longer	23
+lived	23
+imagination	23
+hopes	23
+home	23
+evil	23
+endured	23
+end	23
+destroyed	23
+dead	23
+cottagers	23
+brother	23
+body	23
+appear	23
+woman	22
+unable	22
+sound	22
+remain	22
+quitted	22
+promise	22
+leave	22
+heaven	22
+half	22
+foundation	22
+followed	22
+destruction	22
+destroy	22
+care	22
+beings	22
+attention	22
+youth	21
+wonder	21
+vengeance	21
+use	21
+TRUE	21
+suffered	21
+stranger	21
+sleep	21
+remember	21
+received	21
+person	21
+observed	21
+object	21
+murder	21
+moon	21
+future	21
+formed	21
+father’s	21
+enter	21
+england	21
+answer	21
+agatha	21
+account	21
+wished	20
+went	20
+way	20
+visit	20
+trees	20
+sufficient	20
+spot	20
+set	20
+seen	20
+purpose	20
+path	20
+murdered	20
+look	20
+land	20
+ill	20
+hear	20
+god	20
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
